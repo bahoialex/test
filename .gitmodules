@@ -1,0 +1,6 @@
+[submodule "submod"]
+	path = submod
+	url = https://github.com/bahoialex/test.git
+[submodule "aaa"]
+	path = aaa
+	url = https://github.com/bahoialex/test.git
